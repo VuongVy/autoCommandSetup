@@ -1,1 +1,1 @@
-# autoCommandSetup
+# auto Command Setup

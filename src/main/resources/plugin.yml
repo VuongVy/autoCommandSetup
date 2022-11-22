@@ -1,0 +1,6 @@
+name: StudyKotlin
+version: '${project.version}'
+main: dev.vuongvy.main.Main
+api-version: 1.18
+authors: [ vuongvy ]
+description: study kotlin
